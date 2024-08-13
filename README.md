@@ -29,3 +29,19 @@ A CLI tool to track your skincare routine and get product recommendations.
 Run the tool with:
 ```bash
 skincare-tracker
+
+## Design Flow
+skincare-routine-tracker/
+├── bin/
+│   └── tracker.js
+├── lib/
+│   ├── prompts.js
+│   ├── tracker.js
+│   └── utils.js
+├── data/
+│   └── routines.json
+├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE
+
