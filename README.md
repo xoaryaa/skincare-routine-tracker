@@ -1,5 +1,5 @@
 # Skincare Routine Tracker
-
+![npm version](https://img.shields.io/npm/v/skincare-routine-tracker) <br>
 A CLI tool to track your skincare routine and get product recommendations.
 
 ## Installation
