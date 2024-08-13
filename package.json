@@ -1,0 +1,24 @@
+{
+    "name": "skincare-routine-tracker",
+    "version": "1.0.0",
+    "description": "A CLI tool to track your skincare routine and get product recommendations.",
+    "main": "bin/tracker.js",
+    "type": "module",
+    "bin": {
+        "skincare-tracker": "bin/tracker.js"
+    },
+    "scripts": {
+        "start": "node bin/tracker.js"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "inquirer": "^8.2.6"
+    },
+    "author": "Arya Tayshete",
+    "license": "MIT",
+    "homepage": "https://github.com/xoaryaa/skincare-routine-tracker",
+    "directories": {
+        "lib": "lib"
+    },
+    "keywords": []
+}
